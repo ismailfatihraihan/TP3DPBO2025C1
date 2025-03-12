@@ -1,0 +1,3 @@
+interface PerangkatPenyimpanan {
+  void kapasitasMaksimal();
+}

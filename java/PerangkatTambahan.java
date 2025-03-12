@@ -1,0 +1,3 @@
+interface PerangkatTambahan {
+  void infoTambahan();
+}
